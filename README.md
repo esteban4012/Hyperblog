@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hyperblog
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8,3 +9,7 @@ este es un hyperblog de Git y Github de plazit
 =======
 este es un increible blog de Git y GitHub de plazit
 >>>>>>> a688b8ff172262aa5f8ec5d35f6899c3efe6ac5c
+=======
+# Hyperblog
+Un increible blog de Git y GitHub de Plazit
+>>>>>>> 388e26345b7098ec30f05c4b461f7b9e16b0bf35
