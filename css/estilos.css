@@ -1,5 +1,5 @@
 body
-{   background: #1e1f24 ;
+{   background: #ffffff ;
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -44,7 +44,7 @@ body
 #container 
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 1px solid rgb(206, 125, 125);
     margin: 0 auto;
@@ -58,6 +58,13 @@ body
 #post
 
 {
-    background: white;
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
