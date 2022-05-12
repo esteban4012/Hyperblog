@@ -1,4 +1,4 @@
-hola soy jorge esteban agudelo 
+hola soy jorge esteban agudelo y me gusta la programacion
 
 experimento 1
 
@@ -16,3 +16,5 @@ master 3
 experimento 3 
 
 prueba
+
+esta es una prueba del rebase
