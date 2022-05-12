@@ -10,4 +10,10 @@ master 2
 
 tengo un perro llamado tommy
 
+<<<<<<< HEAD
 master 3
+=======
+
+
+experimento 3 
+>>>>>>> da62f9e (exp 3)
